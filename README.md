@@ -15,6 +15,6 @@
 <p align="center">
     <a href="https://leetcode.com/Higgs32/"><img width="48%" src="https://leetcode.card.workers.dev/Higgs32?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/Higgs32584"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higgs32584&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>  
-
+    <html>"https://github.com/dashboard/recent-activity"</html>
 ![Michael Higgins github stats](https://github-readme-stats.vercel.app/api?username=Higgs32584&show_icons=true&hide_border=true)
 </p>
