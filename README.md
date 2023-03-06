@@ -22,5 +22,5 @@
 </ul>
 
 <!-- This script gets the issues you have commented on using the GitHub API -->
-<script src="https://gist.github.com/harsh-jindal/9729ddbb63e8ed23a5c1a0f68de41d5c.js"></script>    
+<script src="https://gist.github.com/Higgs32584/9729ddbb63e8ed23a5c1a0f68de41d5c.js"></script>    
 </p>
