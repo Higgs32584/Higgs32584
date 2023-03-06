@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
     <h1 align="center">✩&emsp;Higgs32584&emsp;✩</h1>
@@ -13,9 +13,15 @@
 <p align="center">
 </p>
 <p align="center">
+## Issues I Have Commented On
+
+<!-- Replace `Higgs32584` with your GitHub username -->
+<!-- Replace `matplotlib` with the name of the repository where you have commented on issues -->
+<!-- Replace `access-token` with your personal access token with `public_repo` scope -->
+
 <ul>
 {% for issue in site.data.comments %}
-  <li><a href="{{https://github.com/matplotlib/matplotlib/issues?q=is%3Aissue+is%3Aopen+commenter%3AHiggs32584 }}">{{ issue.title }}</a></li>
+  <li><a href="{{ issue.html_url }}">{{ issue.title }}</a></li>
 {% endfor %}
 </ul>
 
