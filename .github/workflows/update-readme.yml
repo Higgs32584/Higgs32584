@@ -13,8 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: Higgs32584/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Specify a custom commit message'
           MAX_LINES: 10
