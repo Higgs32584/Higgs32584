@@ -15,7 +15,7 @@
 <p align="center">
 <ul>
 {% for issue in site.data.comments %}
-  <li><a href="{{ issue.html_url }}">{{ issue.title }}</a></li>
+  <li><a href="{{https://github.com/matplotlib/matplotlib/issues?q=is%3Aissue+is%3Aopen+commenter%3AHiggs32584 }}">{{ issue.title }}</a></li>
 {% endfor %}
 </ul>
 
