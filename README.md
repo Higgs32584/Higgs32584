@@ -26,7 +26,7 @@
 </ul>
 
 <!-- This script gets the issues you have commented on using the GitHub API -->
-<script src="https://gist.github.com/harsh-jindal/9729ddbb63e8ed23a5c1a0f68de41d5c.js"></script> -->
+<!-- <script src="https://gist.github.com/harsh-jindal/9729ddbb63e8ed23a5c1a0f68de41d5c.js"></script> --> -->
 
 
     <a href="https://leetcode.com/Higgs32/"><img width="48%" src="https://leetcode.card.workers.dev/Higgs32?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
