@@ -9,11 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-    env:
-       GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
     steps:
       - uses: actions/checkout@v2
       - uses: Higgs32584/github-activity-readme@master
-        with:
-          COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: 10
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
