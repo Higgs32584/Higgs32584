@@ -11,7 +11,6 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
 <p align="center">
     <a href="https://leetcode.com/Higgs32/"><img width="48%" src="https://leetcode.card.workers.dev/Higgs32?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
