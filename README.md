@@ -18,7 +18,8 @@
 
 ![Michael Higgins github stats](https://github-readme-stats.vercel.app/api?username=Higgs32584&show_icons=true&hide_border=true)
 </p>
-name: Update README
+<!--START_SECTION:activity-->
+    name: Update README
 
 on:
   schedule:
