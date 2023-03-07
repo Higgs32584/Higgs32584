@@ -11,7 +11,7 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Higgs32584&show_icons=true&hide_border=true" width="48%">
 </p>
 <!-- <script src="https://gist.github.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20.js"></script> -->
-[![Recent GitHub activity](https://gist.githubusercontent.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20/raw/activity.md)](https://gist.github.com/Higgs32584/GIST_ID)
+[![Recent GitHub activity](https://gist.githubusercontent.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20/raw/activity.md)](https://gist.github.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20)
 
 
 
