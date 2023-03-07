@@ -10,9 +10,7 @@
 <a href="https://leetcode.com/Higgs32/"><img width="48%" src="https://leetcode.card.workers.dev/Higgs32?theme=dark&font=baloo&extension=activity&border=2&border_radius=8"></a>
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Higgs32584&show_icons=true&hide_border=true" width="48%">
 </p>
-<body>
 <script src="https://gist.github.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20.js"></script>
-</body>
 
 
 
