@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/Higgs32584">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Michael+👋;AI+%2F+ML+Engineer;Data+Scientist;Open-source+contributor+to+matplotlib;Turning+data+into+decisions+⚡&font=Fira%20Code&size=22&color=D62F79&center=true&vCenter=true&width=520&height=50&duration=3500&pause=800" alt="Typing intro">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Michael+👋;AI+%2F+ML+Engineer;Data+Scientist;Open-source+contributor;Turning+data+into+decisions+⚡&font=Fira%20Code&size=22&color=D62F79&center=true&vCenter=true&width=520&height=50&duration=3500&pause=800" alt="Typing intro">
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Higgs32584&style=flat-square&color=D62F79&label=profile+views" alt="Profile views">
   <a href="https://github.com/Higgs32584?tab=followers"><img src="https://img.shields.io/github/followers/Higgs32584?style=flat-square&color=D62F79&label=followers" alt="Followers"></a>
-  <a href="https://github.com/matplotlib/matplotlib/pulls?q=author%3AHiggs32584"><img src="https://img.shields.io/badge/matplotlib-contributor-11557C?style=flat-square&logo=python&logoColor=white" alt="matplotlib contributor"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AHiggs32584+is%3Apublic"><img src="https://img.shields.io/badge/open%20source-contributor-11557C?style=flat-square&logo=github&logoColor=white" alt="Open source contributor"></a>
 </p>
 
 <br>
@@ -22,12 +22,12 @@
 ```python
 class Michael:
     def __init__(self):
-        self.role       = "AI / ML Engineer & Data Scientist"
-        self.focus      = ["LLMs", "NLP", "Predictive Analytics", "MLOps"]
-        self.languages  = ["Python", "R", "SQL"]
-        self.currently  = "Building AI systems that actually ship to production 🚀"
-        self.open_source = "Contributing to matplotlib 📊"
-        self.fun_fact   = "I debug faster with coffee ☕"
+        self.role        = "AI / ML Engineer & Data Scientist"
+        self.focus       = ["LLMs", "NLP", "Predictive Analytics", "MLOps"]
+        self.languages   = ["Python", "R", "SQL"]
+        self.currently   = "Building AI systems that actually ship to production 🚀"
+        self.open_source = "Contributing to open-source projects 🌍"
+        self.fun_fact    = "I debug faster with coffee ☕"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something cool together.")
@@ -49,7 +49,6 @@ Michael().say_hi()
   <br>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -69,16 +68,14 @@ Michael().say_hi()
   <img src="https://streak-stats.demolab.com?user=Higgs32584&theme=radical&hide_border=true" alt="GitHub streak">
 </p>
 
-
-
 ## 🌟 Open Source
 
 <p align="center">
-  <a href="https://github.com/matplotlib/matplotlib/pulls?q=author%3AHiggs32584">
-    <img src="https://img.shields.io/badge/📊_My_matplotlib_PRs-D62F79?style=for-the-badge" alt="My matplotlib PRs">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AHiggs32584+is%3Apublic">
+    <img src="https://img.shields.io/badge/🔀_My_Pull_Requests-D62F79?style=for-the-badge" alt="My pull requests">
   </a>
-  <a href="https://github.com/matplotlib/matplotlib/issues?q=mentions%3AHiggs32584">
-    <img src="https://img.shields.io/badge/💬_Issues_I'm_in-11557C?style=for-the-badge" alt="matplotlib issues">
+  <a href="https://github.com/issues?q=is%3Aissue+involves%3AHiggs32584+is%3Apublic">
+    <img src="https://img.shields.io/badge/💬_Issues_I'm_in-11557C?style=for-the-badge" alt="Issues I'm involved in">
   </a>
   <a href="https://gist.github.com/Higgs32584/72f490f5ff1666a280647d2ed2628a20">
     <img src="https://img.shields.io/badge/📝_Featured_Gist-24292F?style=for-the-badge&logo=github" alt="Featured gist">
@@ -90,7 +87,6 @@ Michael().say_hi()
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+⭐;Feel+free+to+star+a+repo+if+you+like+it!&font=Fira%20Code&size=16&color=D62F79&center=true&width=420&height=30" alt="Thanks for visiting">
 </p>
-
 
 
 
